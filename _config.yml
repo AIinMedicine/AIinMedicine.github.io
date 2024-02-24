@@ -11,7 +11,7 @@ title                    : "AI in Medicine"
 title_separator          : "-"
 name                     : &name "AI in Medicine"
 description              : &description "Hands-on AI course for Doctors and Future Doctors"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aiinmedicine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AIinMedicine/AIinMedicine.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "AI in Medicine"
-  avatar           : "profile.png"
+  avatar           : "fmul_AI.jpeg"
   bio              : "AI in Medicne - Hands-on AI course for future and practicing Physicians"
   location         : "Lisbon"
   employer         :
