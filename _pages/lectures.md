@@ -26,6 +26,18 @@ Parte prática:
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 4. IA em Imagem Médica: DICOM, preparação de dados, e ferramentas de IA
+
+
+Parte teórica:
+
+<a href="https://colab.research.google.com/drive/13Z7fSvkcF5bk8xN8r_jrYaqVO5WX5Fcj?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+Parte prática:
+
+<a href="https://colab.research.google.com/drive/1CVWzwd49b9NEQDPi3SMMeEFWslRiiqy0?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
 5. Discutir erros comuns na utilização de IA e a importância do conhecimento médico
 6. IA em radiologia e cirurgia: perspetiva de médicos
 7. Histórias de sucesso de IA na Medicina
