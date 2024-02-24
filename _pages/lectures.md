@@ -20,7 +20,7 @@ Parte teórica:
 <a href="https://colab.research.google.com/drive/13Z7fSvkcF5bk8xN8r_jrYaqVO5WX5Fcj?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-    Parte prática:
+Parte prática:
 
 <a href="https://colab.research.google.com/drive/1CVWzwd49b9NEQDPi3SMMeEFWslRiiqy0?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
