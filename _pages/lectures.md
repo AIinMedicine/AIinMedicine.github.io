@@ -16,12 +16,13 @@ redirect_from:
 3. Ferramentas, datasets, e melhores práticas para treinar algoritmos de IA
 
 Parte teórica:
-<a href="https://drive.google.com/file/d/13Z7fSvkcF5bk8xN8r_jrYaqVO5WX5Fcj/view?usp=sharing" target="_blank">
+
+<a href="https://colab.research.google.com/drive/13Z7fSvkcF5bk8xN8r_jrYaqVO5WX5Fcj/view?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 Parte prática:
 
-<a href="https://drive.google.com/file/d/1CVWzwd49b9NEQDPi3SMMeEFWslRiiqy0/view?usp=sharing" target="_blank">
+<a href="https://colab.research.google.com/drive/1CVWzwd49b9NEQDPi3SMMeEFWslRiiqy0/view?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 4. IA em Imagem Médica: DICOM, preparação de dados, e ferramentas de IA
