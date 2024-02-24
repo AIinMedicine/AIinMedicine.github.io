@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introdução Prática à Inteligência Artificial em Medicina"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Breve descrição da Unidade Curricular
+======
 
 A Inteligência Artificial (IA) está a revolucionar a Medicina e outras áreas da Saúde. Como tal, é imprescindível aos médicos do futuro possuírem conhecimento sobre IA e os seus diferentes domínios, desde a análise de imagem ao processamento da linguagem natural, e de como estas podem ser usadas para melhorar o tratamento dos pacientes e a eficiência dos profissionais de
 saúde. Deste modo o objetivo geral desta unidade curricular é de complementar o plano curricular do curso de Medicina com uma introdução prática à IA na área da saúde. Os objetivos específicos
