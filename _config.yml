@@ -86,8 +86,8 @@ author:
   location         : "Lisbon"
   employer         :
   pubmed           : 
-  googlescholar    : "aimedicinecf@gmail.com"
-  email            : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
+  email            : "aimedicinecf@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
