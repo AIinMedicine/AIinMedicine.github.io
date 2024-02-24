@@ -4,8 +4,6 @@ title: "Lectures"
 permalink: /lectures/
 author_profile: true
 redirect_from: 
-  - /lectures/
-  - /lectures.html
 ---
 
 {% include base_path %}
