@@ -40,6 +40,8 @@ Parte prática:
 
 **5 - Discutir erros comuns na utilização de IA e a importância do conhecimento médico**
 
+<a href="https://colab.research.google.com/drive/11Mfb1cbU2ePs5Bf9TKcNDuup45onT6vx?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 **6 - IA em radiologia e cirurgia: perspetiva de médicos**
 
