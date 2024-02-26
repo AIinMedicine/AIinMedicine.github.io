@@ -12,6 +12,16 @@ redirect_from:
 
 **2 - Introdução à Lógica de Programação com Python, Jupyter e Google Colab**
 
+Parte teórica:
+
+<a href="https://drive.google.com/file/d/1SYkaCJxUGcywUKNJiQEbi25VFEVYntB1/view?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+Parte prática I:
+
+<a href="https://drive.google.com/file/d/1dSRY7pkyFvwcovb4ZDYYZLo4x381FDjF/view?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
 
 **3 - Ferramentas, datasets, e melhores práticas para treinar algoritmos de IA**
 
