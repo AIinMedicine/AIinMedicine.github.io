@@ -45,7 +45,7 @@ Parte prática:
 
 Parte teórica:
 
-<a href="https://colab.research.google.com/drive/1X5ygFINhEyL5GZiVFRUH6CI0FNCUWSHO?usp=sharing" target="_blank">
+<a href="https://colab.research.google.com/drive/1YABU9OiI_kWxKb8yN2KC6RLGqpHmLtI1?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 Parte prática:
