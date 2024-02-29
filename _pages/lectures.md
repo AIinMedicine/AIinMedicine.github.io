@@ -9,6 +9,9 @@ redirect_from:
 {% include base_path %}
 **1 - Introdução à Inteligência Artificial (IA)**
 
+<a href="https://drive.google.com/file/d/1CUVI383yKhBvHB6YDInENZddp3EDd3N6/view?usp=sharing">Introduction to AI</a>
+
+
 
 **2 - Introdução à Lógica de Programação com Python, Jupyter e Google Colab**
 
@@ -69,6 +72,13 @@ Parte prática:
 
 **8 - Realidade Virtual e Aumentada: demonstração prática**
 
+Parte teórica:
+
+<a href="https://docs.google.com/presentation/d/1UGuhYAjwpuhfEmxZyqODkJIiAuIxbe6r/edit?usp=share_link">AR in Medicine</a>
+
+Parte prática:
+
+<a href="https://drive.google.com/file/d/1g38Okn_BYJ_v4X-7U4rEZuOBvSkk3cjE/view?usp=sharing">Unity AR Tutorial</a>
 
 
 **9 - O futuro de IA na Medicina**
