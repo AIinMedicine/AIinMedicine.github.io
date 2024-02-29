@@ -64,7 +64,7 @@ Parte prática:
 
 Parte prática:
 
-<a href="https://docs.google.com/document/d/1Gyk1Fkxvc34_BwvWgFCeSdx4LuqBmcCh/edit?usp=share_link&ouid=117294004234151981744&rtpof=true&sd=true" target="_blank">MetaHumanDemo</a>
+<a href="https://docs.google.com/document/d/1Gyk1Fkxvc34_BwvWgFCeSdx4LuqBmcCh/edit?usp=share_link">MetaHumanDemo</a>
 
 
 **8 - Realidade Virtual e Aumentada: demonstração prática**
