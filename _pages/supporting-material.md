@@ -20,6 +20,8 @@ Literature Primária
 
 5. Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola. https://d2l.ai (disponível gratuitamente no website)
 
+6. Mens and Kording. <a href="https://drive.google.com/file/d/1nJ5fpXmEmGwyN6jKvws5vb5mY80Nj9bW/view?usp=sharing
+">Ten simple rules for structuring papers</a> Plos Computational Biology
 
 Literatura Secundária
 ======
