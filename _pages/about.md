@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introdução Prática à Inteligência Artificial em Medicina"
+title: "Artificial Intelligence in Healthcare"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Breve descrição da Unidade Curricular
+Brief description and aims of the course
 ======
 
-A Inteligência Artificial (IA) está a revolucionar a Medicina e outras áreas da Saúde. Como tal, é imprescindível aos médicos do futuro possuírem conhecimento sobre IA e os seus diferentes domínios, desde a análise de imagem ao processamento da linguagem natural, e de como estas podem ser usadas para melhorar o tratamento dos pacientes e a eficiência dos profissionais de
-saúde. Deste modo o objetivo geral desta unidade curricular é de complementar o plano curricular do curso de Medicina com uma introdução prática à IA na área da saúde. Os objetivos específicos
-desta unidade curricular, na perspetiva do aluno, são:
-- Conhecer diferentes tipos de algoritmos de IA e as tarefas que podem resolver;
-- Aprender histórias de sucesso de IA na Medicina;
-- Discutir erros comuns na utilização de IA e a importância do conhecimento médico;
-- Utilizar a linguagem de programação Python e as ferramentas Jupyter e Google Colab;
-- Ficar a conhecer datasets clínicos públicos para desenvolver algoritmos de IA;
-- Aprender a usar a IA para análise de imagens médicas em diferentes aplicações;
-- Ensinar a criar modelos digitais 3D de pacientes/órgãos para planeamento cirúrgico.
+Artificial Intelligence (AI) is revolutionizing the world. Medicine is no exception, and several AI applications can already be used today to help both patients and clinicians. In this course, physicians will learn several aspects of AI, how to train AI models for various use cases, and use their domain-specific knowledge to create advanced applications to solve their day-to-day problems improving their efficiency and patient care. Real- world medical data comprising images, text reports, and clinical databases will be used during the workshop.
 
-Metodologia de Ensino
+The objectives of this course are to:
+- Understand the different types of AI models;
+- Understand the types of tasks that AI models can perform;
+- Present several success stories of AI in Medicine;
+- Discuss common mistakes and the importance of domain-specific knowledge;
+- Introduce participants to Python, Jupyter, and Google Colab;
+- Know publicly available datasets;
+- Learn to create use AI to analyze medical images in regression, classification, and segmentation use cases;
+- Learn to create 3D digital patient/organ-specific models for surgical planning.
+
+Educational methods
 ======
-A metodologia didática da disciplina tem grande foco numa componente prática para que os alunos aprendam, fazendo. O contacto com os alunos será feito durante 10 aulas teórico-práticas (uma para
-cada ponto do programa). Os materiais de estudo serão disponibilizados previamente, sendo recomendado que os alunos os preparem antes de cada aula. No início de cada aula será feita uma
-apresentação teórica ao conteúdo em questão, seguindo-se uma atividade mais interativa, em que os alunos terão oportunidade de pôr em prática os materiais aprendidos. Após as aulas teórico-práticas, os alunos terão um pequeno projeto final para desenvolver em grupo durante duas semanas.
+The teaching methodology of the course focuses heavily on a practical component so that students learn by doing, which will be complemented by plenary lectures.
