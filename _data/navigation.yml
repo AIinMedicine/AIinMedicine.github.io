@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Lectures"
+  - title: "Lectures FMUL"
     url: /lectures/
+
+  - title: "Lectures ESSO"
+    url: /lectures_esso/
 
   - title: "Supporting Material"
     url: /supporting-material/    
@@ -9,5 +12,5 @@ main:
   - title: "Faculty"
     url: /faculty/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
