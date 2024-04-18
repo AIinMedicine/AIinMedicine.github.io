@@ -26,6 +26,9 @@ redirect_from:
 
 **6 - Datasets, and best practices to train AI models**
 
+<a href="https://colab.research.google.com/drive/1coOoLUFvxEOug76vshbcooznYmXdHFLI?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
 
 **7 - Exercises (Python, Jupyter, and Google Colab)**
 
