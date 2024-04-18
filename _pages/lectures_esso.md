@@ -26,6 +26,7 @@ redirect_from:
 
 **6 - Datasets, and best practices to train AI models**
 
+
 **7 - Exercises (Python, Jupyter, and Google Colab)**
 
 Part I:
@@ -42,6 +43,14 @@ Part II:
 **8 - AI in Medical Imaging - DICOM, data curation, and tools for AI**
 
 **9 - Exercises (ML on tabular data and DL in Medical Imaging)**
+
+Part I - ML Exercise:
+<a href="https://colab.research.google.com/drive/1-tZLPzl35QakKWC6sg3jtYzCZUKUH56N?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+Part II - DL Exercise:
+<a href="https://colab.research.google.com/drive/1Icb7aJ5sGpZ6XD8KzuhEIihWJHZpsVLK?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 **10 - Success stories of AI in Medicine**
 
