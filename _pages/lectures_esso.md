@@ -45,6 +45,8 @@ Part II:
 
 **8 - AI in Medical Imaging - DICOM, data curation, and tools for AI**
 
+<a href="https://docs.google.com/presentation/d/1IrPOZKHWckaqoJe0g3cIdYAMsRP-snxSWMHrv6CVw08/view?usp=sharing">Introduction to AI</a>
+
 **9 - Exercises (ML on tabular data and DL in Medical Imaging)**
 
 Part I - ML Exercise:
