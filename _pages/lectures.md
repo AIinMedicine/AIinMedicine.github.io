@@ -40,6 +40,11 @@ Parte teórica:
 
 Parte prática:
 
+<a href="https://colab.research.google.com/drive/1K1rG2HivdNqCt09yhhEiNSm_10lZ4VKC?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+Parte prática (Avançada):
+
 <a href="https://colab.research.google.com/drive/1CVWzwd49b9NEQDPi3SMMeEFWslRiiqy0?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
@@ -52,6 +57,11 @@ Parte teórica:
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 Parte prática:
+
+<a href="https://colab.research.google.com/drive/1f_-3KUsEIXqlj2O-mPkU84ZbwBbgi21s?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+Parte prática (Avançada):
 
 <a href="https://colab.research.google.com/drive/1CQjz7Nb5jJXqlJh7WcSd_OD47g9Hf7od?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
