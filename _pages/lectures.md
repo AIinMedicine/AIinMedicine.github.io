@@ -17,7 +17,7 @@ redirect_from:
 
 Parte teórica:
 
-<a href="https://drive.google.com/file/d/1SYkaCJxUGcywUKNJiQEbi25VFEVYntB1/view?usp=sharing" target="_blank">
+<a href="https://colab.research.google.com/drive/1SYm5lNugYpDc6H2Nf4vQ9jSiPjWDJuVI?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 Parte prática I:
