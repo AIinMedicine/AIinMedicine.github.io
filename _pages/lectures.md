@@ -22,7 +22,7 @@ Parte teórica:
 
 Parte prática I:
 
-<a href="https://drive.google.com/file/d/1dSRY7pkyFvwcovb4ZDYYZLo4x381FDjF/view?usp=sharing" target="_blank">
+<a href="https://colab.research.google.com/drive/1YZM7J9p7IQ8k85MqkRJiYoUxybbYMuSK?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 Parte prática II:
