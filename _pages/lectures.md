@@ -25,7 +25,7 @@ Parte prática I:
 
 Parte prática II:
 
-<a href="https://colab.research.google.com/drive/1YZM7J9p7IQ8k85MqkRJiYoUxybbYMuSK?usp=sharing" target="_blank">
+<a href="https://colab.research.google.com/drive/17gb65qPfkGoLpiZW0FzF8Xop_SnMbEPD?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 
