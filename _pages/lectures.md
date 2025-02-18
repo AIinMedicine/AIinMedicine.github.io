@@ -9,9 +9,7 @@ redirect_from:
 {% include base_path %}
 **1 - Introdução à Inteligência Artificial (IA)**
 
-<a href="https://drive.google.com/file/d/1CUVI383yKhBvHB6YDInENZddp3EDd3N6/view?usp=sharing">Introduction to AI</a>
-
-
+<a href="https://drive.google.com/file/d/1c8yAGNV5Y4uHfbGCU204Dtnc4dC83zqp/view?usp=sharing">Introduction to AI</a>
 
 **2 - Introdução à Lógica de Programação com Python, Jupyter e Google Colab**
 
@@ -27,7 +25,7 @@ Parte prática I:
 
 Parte prática II:
 
-<a href="https://colab.research.google.com/drive/1Ya-Pto1Pj2oK_IetkaakD7sYiZEExmov?usp=sharing" target="_blank">
+<a href="https://colab.research.google.com/drive/1YZM7J9p7IQ8k85MqkRJiYoUxybbYMuSK?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 
