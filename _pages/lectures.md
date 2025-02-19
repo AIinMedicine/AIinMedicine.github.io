@@ -90,3 +90,10 @@ Parte prática:
 
 
 **9 - O futuro de IA na Medicina**
+
+**10 - LLMs**
+
+Parte prática:
+
+<a href="https://colab.research.google.com/drive/1RofQ91V5FDoJDpX-egjAan84wWNQ1lo4??usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
