@@ -65,4 +65,8 @@ Part II - DL Exercise:
 
 **13 - Success stories of AI in Medicine - II Breast cancer surgical metaverse**
 
-**14 - Exercises????**
+## 2025
+
+**14 - Segmentation Exercise**
+<a href="https://colab.research.google.com/drive/15lymv-F2zwWLLBT-CWceW_APabxCrU-r?usp=sharing" target="_blank">
+              <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
