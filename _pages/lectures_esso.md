@@ -20,7 +20,7 @@ redirect_from:
 
 **5 - Introduction to Python, Jupyter, and Google Colab**
 
-<a href="https://colab.research.google.com/drive/1SYkaCJxUGcywUKNJiQEbi25VFEVYntB1/view?usp=sharing" target="_blank">
+<a href="https://colab.research.google.com/drive/1SYkaCJxUGcywUKNJiQEbi25VFEVYntB1/usp?usp=sharing" target="_blank">
               <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 
